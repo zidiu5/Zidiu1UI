@@ -11,7 +11,7 @@
 Add this to your script:
 
 ```lua
-local ZidiuUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/zidiu5/ZidiuUI/refs/heads/main/ZidiuUI.lua"))()
+local ZidiuUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/zidiu5/Zidiu1UI/refs/heads/main/ZidiuUI.lua"))()
 ```
 
 That's it! No downloading, no ModuleScript creation.
